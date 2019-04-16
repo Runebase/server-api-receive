@@ -1,4 +1,4 @@
-const RPC = require('qtumd-rpc');
+const RPC = require('runebased-rpc');
 const config = require('../../config/main.json');
 
 class RpcRepository {
